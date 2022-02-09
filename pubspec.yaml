@@ -1,4 +1,4 @@
-name: sample
+name: componentlib
 description: A new Flutter project.
 publish_to: none
 version: 1.0.0+1
@@ -16,4 +16,9 @@ dev_dependencies:
 flutter: 
   uses-material-design: true
   assets: 
-    - packages/sample/assets/images/1_134.png
+    - packages/componentlib/assets/images/3_25.png
+    - packages/componentlib/assets/images/3_28.png
+    - packages/componentlib/assets/images/3_29.png
+    - packages/componentlib/assets/images/I3_33;3_7.png
+    - packages/componentlib/assets/images/I3_33;3_11.png
+    - packages/componentlib/assets/images/I3_33;3_16.png
