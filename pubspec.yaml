@@ -1,9 +1,9 @@
-name: sample
+name: llll
 description: A new Flutter project.
 publish_to: none
 version: 1.0.0+1
 environment: 
-  sdk: '>=2.15.1 <3.0.0'
+  sdk: '>=2.16.1 <3.0.0'
 dependencies: 
   flutter: 
     sdk: flutter
@@ -16,4 +16,9 @@ dev_dependencies:
 flutter: 
   uses-material-design: true
   assets: 
-    - packages/sample/assets/images/1_134.png
+    - packages/llll/assets/images/3_25.png
+    - packages/llll/assets/images/3_28.png
+    - packages/llll/assets/images/3_29.png
+    - packages/llll/assets/images/19_38.png
+    - packages/llll/assets/images/19_42.png
+    - packages/llll/assets/images/19_47.png
